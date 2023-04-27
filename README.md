@@ -1,4 +1,4 @@
-# Ender 5 Pro
+# ZeroG Mercury One.1
 Klipper configurations and overall mods to the Stock Ender 5 Pro for the ZeroG Mercury One.1 conversion
 
 ## Current Mods
@@ -21,3 +21,5 @@ Klipper configurations and overall mods to the Stock Ender 5 Pro for the ZeroG M
 | :--- | :----: | ---: |
 | Printed Bed Supports:| Bed reinforcement brackets for the Ender 5 and Ender 5 Pro in order to reduce vibrations and make the bed more stable.  | [Printables](https://www.printables.com/model/309847-bed-supports-ender-5-ender-5-pro)|
 | Ender 5 Pro Front bar relocation:| Better clearance to get to the bed than the original allowed. This bolts into place using the same factory bolts and the result is a square corner. | [Thingiverse](https://www.thingiverse.com/thing:4573655)|
+
+### Hydra Conversion is next
