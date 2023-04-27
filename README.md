@@ -30,16 +30,16 @@ Klipper configurations and overall mods to the Stock Ender 5 Pro for the ZeroG M
 
 | Size  | Type                              | Amount |                         Sourced?                          |
 |:------|:----------------------------------|:------:|:-------------------------------------------------------:|
-| M3X6  | <nobr>ISO 10642 / DIN 7991</nobr> |   6    | <ul><li>- [x]</li></ul> |
-| M3X8  | <nobr>ISO 4762 / DIN 912</nobr>   |   85   | <ul><li>- [x]</li></ul> |
-| M3X10 | <nobr>ISO 4762 / DIN 912</nobr>   |   3    | <ul><li>- [x]</li></ul> |
-| M4X16 | <nobr>ISO 4762 / DIN 912</nobr>   |   3    | <ul><li>- [x]</li></ul> |
-| M5X8  | <nobr>ISO 7380 / DIN 7380</nobr>  |   4    | <ul><li>- [x]</li></ul> |
-| M5X10 | <nobr>ISO 4762 / DIN 912</nobr>   |   18   | <ul><li>- [x]</li></ul> |
+| M3X6  | <nobr>ISO 10642 / DIN 7991</nobr> |   6    | :white_check_mark: |
+| M3X8  | <nobr>ISO 4762 / DIN 912</nobr>   |   85   | :white_check_mark: |
+| M3X10 | <nobr>ISO 4762 / DIN 912</nobr>   |   3    | :white_check_mark: |
+| M4X16 | <nobr>ISO 4762 / DIN 912</nobr>   |   3    | :white_check_mark: |
+| M5X8  | <nobr>ISO 7380 / DIN 7380</nobr>  |   4    | :white_check_mark: |
+| M5X10 | <nobr>ISO 4762 / DIN 912</nobr>   |   18   | :white_check_mark: |
 
 ### T-Nuts
 
 | Size | Type                               | Amount |                            Sourced?                            |
 |:-----|:-----------------------------------|:------:|:------------------------------------------------------------:|
-| M3   | <nobr>Roll in spring loaded</nobr> |   24   | <ul><li>- [x]</li></ul> |
-| M5   | <nobr>Roll in spring loaded</nobr> |   22   | <ul><li>- [x]</li></ul> |
+| M3   | <nobr>Roll in spring loaded</nobr> |   24   | :white_check_mark: |
+| M5   | <nobr>Roll in spring loaded</nobr> |   22   | :white_check_mark: |
