@@ -43,3 +43,50 @@ Klipper configurations and overall mods to the Stock Ender 5 Pro for the ZeroG M
 |:-----|:-----------------------------------|:------:|:------------------------------------------------------------:|
 | M3   | <nobr>Roll in spring loaded</nobr> |   24   | :white_check_mark: |
 | M5   | <nobr>Roll in spring loaded</nobr> |   22   | :white_check_mark: |
+
+### Extrusion
+
+| Printer       | Size  | Type                        | Amount |                            Stores                            |
+|:--------------|:------|:----------------------------|:------:|:------------------------------------------------------------:|
+| Ender 5 (Pro) | 400mm | <nobr>2020 Extrusion</nobr> |   1    | :white_check_mark: |
+
+### Linear rails
+
+| Printer       | Size  | Type                                 | Amount |                          Stores                           |
+|:--------------|:------|:-------------------------------------|:------:|:---------------------------------------------------------:|
+| X             | 100mm | <nobr>MGN9C</nobr>                   |   3    | :white_large_square: |
+| Ender 5 (Pro) | 400mm | <nobr>MGN12C <b>OR</b> MGN12H</nobr> |   3    | :white_large_square: |
+
+### Leadscrew
+
+| Printer       | Size Range    | Type                       | Amount |                           Stores                            |
+|:--------------|:--------------|:---------------------------|:------:|:-----------------------------------------------------------:|
+| Ender 5 (Pro) | 350mm / 370mm | <nobr>TR8 Leadscrew</nobr> |   3    | :white_large_square: |
+
+### Magnet
+
+| Size             | Type                                                                    | Amount |                            Stores                            |
+|:-----------------|:------------------------------------------------------------------------|:------:|:------------------------------------------------------------:|
+| 12x5mm or 12x4mm | <nobr>4mm hole Neodymium</nobr><br><nobr>Countersunk Ring Magnet</nobr> |   3    | :white_check_mark: |
+
+### Bed
+
+| Printer       | Size          | Type                           | Amount |                          Stores                          |
+|:--------------|:--------------|:-------------------------------|:------:|:--------------------------------------------------------:|
+| Ender 5 (Pro) | 255/275mm     | <nobr>Bed heater</nobr>        |   1    | :white_check_mark: |
+| Ender 5 (Pro) | 255/275mm     | <nobr>Aluminum bed</nobr>      |   1    | :white_check_mark: |
+| X             | Case specific | <nobr>Solid State Relay</nobr> |   1    |  :white_large_square:   |
+
+### Misc
+
+| Size                          | Type                                                             | Amount |                              Stores                               |
+|:------------------------------|:-----------------------------------------------------------------|:------:|:-----------------------------------------------------------------:|
+| 2020                          | <nobr>2020 Corner bracket</nobr>                                 |   2    | :white_large_square: |
+| <nobr>M3 X D5.0 X L4.0</nobr> | Heatset insert                                                   |   39   |  :white_check_mark:  |
+| M3 Washer                     | <nobr>Normal grade A M3 </nobr><br><nobr>Stainless Steel </nobr> |   12   |  :white_check_mark:  |
+| M4 X 8 X L8                   | Spacer                                                           |   3    |   :white_check_mark:   |
+| 10mm M4                       | Kossel ball                                                      |   3    |  :white_check_mark: |
+| 10x11mm - 1 Meter             | R18 Drag chain                                                   |   1    | :white_large_square:  |
+| Nema17                        | Stepper motor                                                    |   3    | :white_large_square:   |
+| 5mm-8mm                       | Shaft Coupling                                                   |   3    |  :white_large_square:  |
+| OPTIONAL                      | Oldham Coupling                                                  |   3    | :white_large_square: |
