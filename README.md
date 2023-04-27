@@ -46,32 +46,32 @@ Klipper configurations and overall mods to the Stock Ender 5 Pro for the ZeroG M
 
 ### Extrusion
 
-| Printer       | Size  | Type                        | Amount |                            Stores                            |
+| Printer       | Size  | Type                        | Amount |                            Sourced?                             |
 |:--------------|:------|:----------------------------|:------:|:------------------------------------------------------------:|
 | Ender 5 (Pro) | 400mm | <nobr>2020 Extrusion</nobr> |   1    | :white_check_mark: |
 
 ### Linear rails
 
-| Printer       | Size  | Type                                 | Amount |                          Stores                           |
+| Printer       | Size  | Type                                 | Amount |                          Sourced?                            |
 |:--------------|:------|:-------------------------------------|:------:|:---------------------------------------------------------:|
 | X             | 100mm | <nobr>MGN9C</nobr>                   |   3    | :white_large_square: |
 | Ender 5 (Pro) | 400mm | <nobr>MGN12C <b>OR</b> MGN12H</nobr> |   3    | :white_large_square: |
 
 ### Leadscrew
 
-| Printer       | Size Range    | Type                       | Amount |                           Stores                            |
+| Printer       | Size Range    | Type                       | Amount |                           Sourced?                             |
 |:--------------|:--------------|:---------------------------|:------:|:-----------------------------------------------------------:|
 | Ender 5 (Pro) | 350mm / 370mm | <nobr>TR8 Leadscrew</nobr> |   3    | :white_large_square: |
 
 ### Magnet
 
-| Size             | Type                                                                    | Amount |                            Stores                            |
+| Size             | Type                                                                    | Amount |                            Sourced?                             |
 |:-----------------|:------------------------------------------------------------------------|:------:|:------------------------------------------------------------:|
 | 12x5mm or 12x4mm | <nobr>4mm hole Neodymium</nobr><br><nobr>Countersunk Ring Magnet</nobr> |   3    | :white_check_mark: |
 
 ### Bed
 
-| Printer       | Size          | Type                           | Amount |                          Stores                          |
+| Printer       | Size          | Type                           | Amount |                          Sourced?                           |
 |:--------------|:--------------|:-------------------------------|:------:|:--------------------------------------------------------:|
 | Ender 5 (Pro) | 255/275mm     | <nobr>Bed heater</nobr>        |   1    | :white_check_mark: |
 | Ender 5 (Pro) | 255/275mm     | <nobr>Aluminum bed</nobr>      |   1    | :white_check_mark: |
@@ -79,7 +79,7 @@ Klipper configurations and overall mods to the Stock Ender 5 Pro for the ZeroG M
 
 ### Misc
 
-| Size                          | Type                                                             | Amount |                              Stores                               |
+| Size                          | Type                                                             | Amount |                              Sourced?                                |
 |:------------------------------|:-----------------------------------------------------------------|:------:|:-----------------------------------------------------------------:|
 | 2020                          | <nobr>2020 Corner bracket</nobr>                                 |   2    | :white_large_square: |
 | <nobr>M3 X D5.0 X L4.0</nobr> | Heatset insert                                                   |   39   |  :white_check_mark:  |
