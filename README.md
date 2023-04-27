@@ -14,8 +14,7 @@ Klipper configurations and overall mods to the Stock Ender 5 Pro for the ZeroG M
 | Conversion Kit: | ZeroG Mercury One w/SS Rails| [Fabreeko](https://www.fabreeko.com/collections/zero-g/products/mercury-one-kit?variant=42031744614655) |
 | Probe: | Klicky | Self-Sourced BOM: [Github](https://github.com/jlas1/Klicky-Probe) |
 | Bed: | Spring steel PEI Sheet 235mmx235mm    |  [Amazon](https://www.amazon.com/dp/B0BRCRX6T9?psc=1&ref=ppx_yo2ov_dt_b_product_details)|
-
-| Reverse Bowden setup: | Capricorn Bowden PTFE Tubing 1M XS Series| [Amazon](https://www.amazon.com/Creality-Capricorn-Filament-Pneumatic-Fittings/dp/B086YPDHMF/ref=sr_1_4?keywords=capricorn+bowden+tubing&s=industrial&sr=1-4)|
+| Reverse Bowden setup: | Capricorn Bowden PTFE Tubing 1M XS Series| [Amazon](https://www.amazon.com/Creality-Capricorn-Filament-Pneumatic-Fittings/dp/B086YPDHMF/ref=sr_1_4?keywords=capricorn+bowden+tubing&s=industrial&sr=1-4) |
 ||Printed Mods||
 | :--- | :----: | ---: |
 | Printed Bed Supports:| Bed reinforcement brackets for the Ender 5 and Ender 5 Pro in order to reduce vibrations and make the bed more stable.  | [Printables](https://www.printables.com/model/309847-bed-supports-ender-5-ender-5-pro)|
