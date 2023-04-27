@@ -22,4 +22,24 @@ Klipper configurations and overall mods to the Stock Ender 5 Pro for the ZeroG M
 | Printed Bed Supports:| Bed reinforcement brackets for the Ender 5 and Ender 5 Pro in order to reduce vibrations and make the bed more stable.  | [Printables](https://www.printables.com/model/309847-bed-supports-ender-5-ender-5-pro)|
 | Ender 5 Pro Front bar relocation:| Better clearance to get to the bed than the original allowed. This bolts into place using the same factory bolts and the result is a square corner. | [Thingiverse](https://www.thingiverse.com/thing:4573655)|
 
-### Hydra Conversion is next
+# Hydra Conversion  Collected parts to date - 04-27-2023
+
+### Bolts
+
+#### Self sourcing bolts
+
+| Size  | Type                              | Amount |                         Sourced?                          |
+|:------|:----------------------------------|:------:|:-------------------------------------------------------:|
+| M3X6  | <nobr>ISO 10642 / DIN 7991</nobr> |   6    | - [x] |
+| M3X8  | <nobr>ISO 4762 / DIN 912</nobr>   |   85   | - [x] |
+| M3X10 | <nobr>ISO 4762 / DIN 912</nobr>   |   3    | - [x] |
+| M4X16 | <nobr>ISO 4762 / DIN 912</nobr>   |   3    | - [x] |
+| M5X8  | <nobr>ISO 7380 / DIN 7380</nobr>  |   4    | - [x] |
+| M5X10 | <nobr>ISO 4762 / DIN 912</nobr>   |   18   | - [x] |
+
+### T-Nuts
+
+| Size | Type                               | Amount |                            Sourced?                            |
+|:-----|:-----------------------------------|:------:|:------------------------------------------------------------:|
+| M3   | <nobr>Roll in spring loaded</nobr> |   24   | - [x] |
+| M5   | <nobr>Roll in spring loaded</nobr> |   22   | - [x] |
