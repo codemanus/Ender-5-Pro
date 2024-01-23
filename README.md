@@ -22,7 +22,25 @@ Klipper configurations and overall mods to the Stock Ender 5 Pro for the ZeroG M
 | Printed Bed Supports:| Bed reinforcement brackets for the Ender 5 and Ender 5 Pro in order to reduce vibrations and make the bed more stable.  | [Printables](https://www.printables.com/model/309847-bed-supports-ender-5-ender-5-pro)|
 | Ender 5 Pro Front bar relocation:| Better clearance to get to the bed than the original allowed. This bolts into place using the same factory bolts and the result is a square corner. | [Thingiverse](https://www.thingiverse.com/thing:4573655)|
 
-# Hydra Conversion  Collected parts to date - 04-27-2023
+# Hydra Conversion Collected parts to date - 01-22-2024
+
+### Parts Sources
+
+| Parts/Kit  | Vendor Link                              |
+|:------|:----------------------------------|
+| Fabreeko Zero G Hydra Kit | [Fabreeko](https://www.fabreeko.com/collections/zero-g/products/zero-g-hydra-3-point-conversion-for-ender-5-pro-plus?variant=43075050143999) |
+| HoneyBadger MGN12H | [Fabreeko](https://www.fabreeko.com/collections/zero-g/products/honeybadger-mgn12h-black-steel-rails?variant=43180991643903) | 
+| HoneyBadger Textured & Smooth PEI Flex Plate | [Fabreeko](https://www.fabreeko.com/collections/zero-g/products/honeybadger-mercury-1-dual-sided-black-textured-and-smooth-pei-beds?variant=42707093586175) | 
+| Fabreeko Edge to Edge Heaters for Zero G | [Fabreeko](https://www.fabreeko.com/collections/zero-g/products/fabreeko-edge-to-edge-heaters-for-zero-g?variant=42649578012927) |  
+| Fabreeko Zero G MIC6 275x275 bed | [Fabreeko](https://www.fabreeko.com/collections/zero-g/products/zero-g-atp5-aluminum-beds-for-ender-5-pro-plus-hydra-conversion?variant=43866439254271) | 
+| West3d Hydra Ender Conversion Fastener Kit | [West3d](https://west3d.com/products/bdf-zero-g-hydra-ender-conversion-fastener-kit) | 
+| Energetic Magentic Base | [West3d](https://west3d.com/products/magnetic-base-with-adhesive-for-flex-plates?pr_prod_strat=e5_desc&pr_rec_id=d27d1d4fd&pr_rec_pid=7480103174356&pr_ref_pid=7888782328020&pr_seq=uniform) | 
+| Stepperonline Nema 17 | [Amazon](https://www.amazon.com/dp/B0B38GHRH8?ref=ppx_yo2ov_dt_b_product_details&th=1) |
+| ReliaBot Tr8x2 Lead screws | [Amazon](https://www.amazon.com/gp/product/B092Z48XPY/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) |
+| Polisi3d POM nuts Tr8x2 | [Amazon](https://www.amazon.com/gp/product/B07XYQTR65/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1) |
+| Omron SSR and Bracket | [KB-3D](https://kb-3d.com/store/omron/171-omron-solid-state-relay-g3na-210b-utu-ssr-4536854807954.html) |
+| 35mm DIN Rail | [KB-3D](https://kb-3d.com/store/inserts-fasteners-adhesives/448-5597-din-3-rail-set-pair-35mm-multiple-lengths-1640962880037.html#/169-length-370mm) |
+| HFP Printed parts | ZeroG Discord |
 
 ### Bolts
 
@@ -54,14 +72,14 @@ Klipper configurations and overall mods to the Stock Ender 5 Pro for the ZeroG M
 
 | Printer       | Size  | Type                                 | Amount |                          Sourced?                            |
 |:--------------|:------|:-------------------------------------|:------:|:---------------------------------------------------------:|
-| X             | 100mm | <nobr>MGN9C</nobr>                   |   3    | :white_large_square: |
-| Ender 5 (Pro) | 400mm | <nobr>MGN12C <b>OR</b> MGN12H</nobr> |   3    | :white_large_square: |
+| X             | 100mm | <nobr>MGN9C</nobr>                   |   3    | :white_check_mark: |
+| Ender 5 (Pro) | 400mm | <nobr>MGN12C <b>OR</b> MGN12H</nobr> |   3    | :white_check_mark: |
 
 ### Leadscrew
 
 | Printer       | Size Range    | Type                       | Amount |                           Sourced?                             |
 |:--------------|:--------------|:---------------------------|:------:|:-----------------------------------------------------------:|
-| Ender 5 (Pro) | 350mm / 370mm | <nobr>TR8 Leadscrew</nobr> |   3    | :white_large_square: |
+| Ender 5 (Pro) | 350mm / 370mm | <nobr>TR8 Leadscrew</nobr> |   3    | :white_check_mark: |
 
 ### Magnet
 
@@ -75,18 +93,18 @@ Klipper configurations and overall mods to the Stock Ender 5 Pro for the ZeroG M
 |:--------------|:--------------|:-------------------------------|:------:|:--------------------------------------------------------:|
 | Ender 5 (Pro) | 255/275mm     | <nobr>Bed heater</nobr>        |   1    | :white_check_mark: |
 | Ender 5 (Pro) | 255/275mm     | <nobr>Aluminum bed</nobr>      |   1    | :white_check_mark: |
-| X             | Case specific | <nobr>Solid State Relay</nobr> |   1    |  :white_large_square:   |
+| X             | Case specific | <nobr>Solid State Relay</nobr> |   1    |  :white_check_mark:   |
 
 ### Misc
 
 | Size                          | Type                                                             | Amount |                              Sourced?                                |
 |:------------------------------|:-----------------------------------------------------------------|:------:|:-----------------------------------------------------------------:|
-| 2020                          | <nobr>2020 Corner bracket</nobr>                                 |   2    | :white_large_square: |
+| 2020                          | <nobr>2020 Corner bracket</nobr>                                 |   2    | :white_check_mark: |
 | <nobr>M3 X D5.0 X L4.0</nobr> | Heatset insert                                                   |   39   |  :white_check_mark:  |
 | M3 Washer                     | <nobr>Normal grade A M3 </nobr><br><nobr>Stainless Steel </nobr> |   12   |  :white_check_mark:  |
 | M4 X 8 X L8                   | Spacer                                                           |   3    |   :white_check_mark:   |
 | 10mm M4                       | Kossel ball                                                      |   3    |  :white_check_mark: |
-| 10x11mm - 1 Meter             | R18 Drag chain                                                   |   1    | :white_large_square:  |
-| Nema17                        | Stepper motor                                                    |   3    | :white_large_square:   |
-| 5mm-8mm                       | Shaft Coupling                                                   |   3    |  :white_large_square:  |
+| 10x11mm - 1 Meter             | R18 Drag chain                                                   |   1    | :white_check_mark:  |
+| Nema17                        | Stepper motor                                                    |   3    | :white_check_mark:   |
+| 5mm-8mm                       | Shaft Coupling                                                   |   3    |  :white_check_mark:  |
 | OPTIONAL                      | Oldham Coupling                                                  |   3    | :white_large_square: |
